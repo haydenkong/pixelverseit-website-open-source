@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 653.33 276.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Poppins-SemiBold, Poppins;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-size: 51.47px;
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        font-family: Poppins-Regular, Poppins;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="44.75" x2="49.62" y2="44.75" gradientUnits="userSpaceOnUse">
+      <stop offset=".28" stop-color="#0867df"/>
+      <stop offset="1" stop-color="#0471e9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="17.22" y1="15.92" x2="66.79" y2="15.92" xlink:href="#linear-gradient"/>
+  </defs>
+  <path class="cls-6" d="m49.62,34.58c0-2.3-25.7.4-32.3-12-3.8-7.1.2-14.8-2.1-15.7C12.32,5.78,3.72,17.48.92,31.18.12,35.18-.08,38.88.02,42.78c.6,20.5,9.8,40.6,13.3,39.9,4-.8-5.8-27.2,7.8-39.7,10.3-9.3,28.5-6.4,28.5-8.4Z"/>
+  <path class="cls-1" d="m17.22,4.98c0,1.7,25.4-1.5,32.6,11.2,4,7,.2,14.8,2.5,15.6,3.6,1.3,17.9-15.6,13.7-24.7-6.2-13.2-48.8-4.3-48.8-2.1Z"/>
+  <text class="cls-4" transform="translate(79.89 59.49)"><tspan class="cls-2" x="0" y="0">Pixel</tspan><tspan class="cls-5" x="119.47" y="0">Verse</tspan><tspan class="cls-3" x="264.16" y="0" xml:space="preserve"> IT</tspan></text>
+</svg>
